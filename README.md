@@ -1,2 +1,2 @@
 # BetterRest
-use SwiftUI and practice about CoreML
+Simple Project Calulating Bedtime using SwiftUI and CoreML
